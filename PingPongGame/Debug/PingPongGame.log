@@ -1,0 +1,6 @@
+﻿  PingPongGame.cpp
+d:\project\vs projects\pingponggame\pingponggame\pingponggame.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\project\vs projects\pingponggame\pingponggame\pingponggame.cpp(180): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\project\vs projects\pingponggame\pingponggame\pingponggame.cpp(443): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PingPongGame.vcxproj -> D:\Project\VS Projects\PingPongGame\Debug\PingPongGame.exe
+  PingPongGame.vcxproj -> D:\Project\VS Projects\PingPongGame\Debug\PingPongGame.pdb (Full PDB)
